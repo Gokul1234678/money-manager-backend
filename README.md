@@ -3,8 +3,9 @@
 A full-stack Money Manager web app to track income and expenses with analytics.
 
 🚀 Live Demo
-Frontend: 
-Backend:
+Frontend: https://money-manager-app.netlify.app
+Backend: https://money-manager-backend.onrender.com
+
 
 
 
